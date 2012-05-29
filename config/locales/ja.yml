@@ -1,0 +1,15 @@
+ja:
+  web-app-theme:
+    save: 保存
+    cancel: キャンセル
+    list: リスト
+    edit: 編集
+    new: 新規
+    show: 閲覧
+    delete: 削除
+    confirm: 本当によろしいですか?
+    created_at: 作成日時
+    all: すべての
+    profile: プロフィール
+    settings: 設定
+    logout: ログアウト
