@@ -1,15 +1,15 @@
 ja:
   web-app-theme:
-    save: ÊİÂ¸
-    cancel: ¥­¥ã¥ó¥»¥ë
-    list: ¥ê¥¹¥È
-    edit: ÊÔ½¸
-    new: ¿·µ¬
-    show: ±ÜÍ÷
-    delete: ºï½ü
-    confirm: ËÜÅö¤Ë¤è¤í¤·¤¤¤Ç¤¹¤«?
-    created_at: ºîÀ®Æü»ş
-    all: ¤¹¤Ù¤Æ¤Î
-    profile: ¥×¥í¥Õ¥£¡¼¥ë
-    settings: ÀßÄê
-    logout: ¥í¥°¥¢¥¦¥È
+    save: ä¿å­˜
+    cancel: ã‚­ãƒ£ãƒ³ã‚»ãƒ«
+    list: ãƒªã‚¹ãƒˆ
+    edit: ç·¨é›†
+    new: æ–°è¦
+    show: é–²è¦§
+    delete: å‰Šé™¤
+    confirm: æœ¬å½“ã«ã‚ˆã‚ã—ã„ã§ã™ã‹?
+    created_at: ä½œæˆæ—¥æ™‚
+    all: ã™ã¹ã¦ã®
+    profile: ãƒ—ãƒ­ãƒ•ã‚£ãƒ¼ãƒ«
+    settings: è¨­å®š
+    logout: ãƒ­ã‚°ã‚¢ã‚¦ãƒˆ
